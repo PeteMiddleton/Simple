@@ -12,3 +12,5 @@ then did a "git push" (to push it to GitHub repo)
 ...and the changes committed.
 It seems that the local repo will update with a "git pull" only after something has changed in the remote repo.
 A "git branch" did not show the Test branch until I changed this file an did a "git pull"
+
+# Comment 3 - this was just to test the "git add *" command
