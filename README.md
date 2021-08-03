@@ -9,4 +9,6 @@ then a "git commit -m "This added Comment 1" (commit to local repo)
 then did a "git push" (to push it to GitHub repo)
 
 # Comment 2 - This was added in the Test branch of the GitHub Repo online (not locally)
-...and the changes committed
+...and the changes committed.
+It seems that the local repo will update with a "git pull" only after something has changed in the remote repo.
+A "git branch" did not show the Test branch intil I changed this file an did a "git pull"
